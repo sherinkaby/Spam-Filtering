@@ -59,17 +59,3 @@ The models were evaluated using the following metrics:
 Accuracy Score
 Confusion Matrix
 Classification Report
-Installation
-To get a local copy up and running, follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/spam-detection-nlp.git
-Install the required packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the notebook to execute the project.
